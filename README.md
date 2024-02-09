@@ -1,0 +1,1 @@
+# germanized_for_woocommerce_to_finanz.at
